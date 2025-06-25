@@ -1,0 +1,50 @@
+body {
+    font-family: 'Inter', sans-serif;
+    color: #333;
+    margin: 0;
+    padding: 0;
+    background-color: #fafafa;
+    text-align: center;
+}
+
+header {
+    padding: 40px;
+    background-color: #fff;
+    border-bottom: 1px solid #ddd;
+}
+
+h1 {
+    font-size: 2.5em;
+    margin-bottom: 10px;
+}
+
+.download-btn {
+    display: inline-block;
+    margin-top: 20px;
+    padding: 10px 20px;
+    background-color: #007AFF;
+    color: white;
+    text-decoration: none;
+    border-radius: 8px;
+}
+
+.features, .faq {
+    margin: 40px auto;
+    max-width: 800px;
+    text-align: left;
+}
+
+.feature, .question {
+    margin-bottom: 20px;
+}
+
+footer {
+    padding: 20px;
+    border-top: 1px solid #ddd;
+    background-color: #fff;
+}
+
+footer a {
+    color: #007AFF;
+    text-decoration: none;
+}
